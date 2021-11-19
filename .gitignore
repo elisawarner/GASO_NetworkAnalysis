@@ -5,3 +5,5 @@ MostCommonIPs.csv
 config.py
 *.json
 __*
+dist
+build
