@@ -32,7 +32,7 @@ import tkinter as tk
 def submit ():
 	origAddress = e1.get() 
 	tk.Label(master, text= "SUBMITTED", fg='green', font=('helvetica', 12, 'bold')).grid(row=3)
-	
+
 	df = pd.DataFrame()
 
 	try:

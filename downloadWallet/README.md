@@ -1,3 +1,4 @@
+
 # README
 
 **Author:** Elisa Warner  
@@ -21,6 +22,8 @@ walletAddress = "<WALLET ADDRESS HERE>"
 ############## DO NOT CHANGE BELOW LINE ###################
 apiKeyETHERSCAN = "<APIKEY HERE>"
 ```
+
+Title this file `config.py`.  
 
 You can obtain an API key by creating an etherscan API account here:
 https://etherscan.io/apis  
