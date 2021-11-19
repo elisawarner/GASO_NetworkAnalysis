@@ -2,3 +2,8 @@
 *.png
 IPs.csv
 MostCommonIPs.csv
+config.py
+*.json
+__*
+dist
+build
