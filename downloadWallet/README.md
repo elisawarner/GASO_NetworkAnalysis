@@ -30,4 +30,7 @@ Simply find the API key and add here.
 To run #1, simply open a Jupyter Notebook and run each cell. To run #2, go to your terminal or command prompt, and type: `python downloadWallet.py`. Wait for the interactive GUI to appear.  
 
 ## Dependencies
-This code was tested on a PC with Windows 11 and Anaconda, Python=3.8. If you have Anaconda, all packages should already be installed for you. If you do not know how to install, contact `elisawa@umich.edu` for an executable version.
+This code was tested on a PC with Windows 11 and Anaconda, Python=3.8. If you have Anaconda, all packages should already be installed for you. If you do not know how to install, contact `elisawa@umich.edu` for an executable version. You can choose to attempt to run this as a python executable. If so, look at "Creating the Environment" below.  
+
+## Creating the Environment
+If you decide to create an environment to run the code from a python script, install python=3.8. Then, download dependencies by typing `pip install -r requirements.txt` into the terminal. Then run the code command `python downloadWallet.py` and look for a GUI window to pop up.  
