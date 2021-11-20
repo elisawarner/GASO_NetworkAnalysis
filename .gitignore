@@ -7,3 +7,5 @@ config.py
 __*
 dist
 build
+Secret1-LCTPSites/
+*.pkl
